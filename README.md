@@ -23,3 +23,22 @@ XSSinator is a powerful XSS payload generator and scanner designed to detect and
   - [Vulnerability Scanning](#vulnerability-scanning)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Installation
+
+To install XSSinator, you need to have Python 3 and pip package manager installed. Run the following command to install the required dependencies:
+
+#### From pip
+
+```shell
+pip install xssinator
+```
+
+#### From source
+
+```
+git clone https://github.com/meuzgebre/xssinator
+cd xxsinator
+pip install -r requirements.txt
+```
