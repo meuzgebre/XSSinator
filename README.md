@@ -42,3 +42,23 @@ git clone https://github.com/meuzgebre/xssinator
 cd xxsinator
 pip install -r requirements.txt
 ```
+
+## Usage
+
+XSSinator provides a command-line interface (CLI) to generate XSS payloads and scan web applications. Here are some examples of how to use XSSinator:
+
+### Payload Generation
+
+Generate XSS payloads with default settings:
+```
+xssinator generate --count 10
+```
+
+### Vulnerability Scanning
+
+Scan a web application for XSS vulnerabilities:
+```
+xssinator scan --url https://example.com
+```
+
+For a complete list of available commands and options, refer to the CLI documentation.
