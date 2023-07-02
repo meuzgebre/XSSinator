@@ -13,3 +13,13 @@ XSSinator is a powerful XSS payload generator and scanner designed to detect and
 - Multiple encoding styles for payload generation
 - Scan web applications for XSS vulnerabilities
 - Detailed reporting and vulnerability analysis
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Payload Generation](#payload-generation)
+  - [Vulnerability Scanning](#vulnerability-scanning)
+- [Contributing](#contributing)
+- [License](#license)
