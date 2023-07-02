@@ -69,3 +69,7 @@ xssinator scan --url https://example.com
 To learn more about vulnerability scanning and how to use it effectively, refer to the Vulnerability Scanning Guide.
 
 For a complete list of available commands and options, refer to the CLI documentation.
+
+## Contributing
+
+We welcome contributions from the open-source community to improve XSSinator. To contribute to the project, please follow guidelines.
