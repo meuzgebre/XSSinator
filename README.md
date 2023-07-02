@@ -2,6 +2,9 @@
 
 [![Build Status](https://img.shields.io/travis/meuzgebre/xssinator/master.svg?style=flat-square)](https://travis-ci.org/meuzgebre/xssinator)
 [![License](https://img.shields.io/github/license/meuzgebre/xssinator.svg?style=flat-square)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-360/)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+
 
 XSSinator is a powerful XSS payload generator and scanner designed to detect and exploit Cross-Site Scripting vulnerabilities in web applications. It provides a wide range of payload templates, variations, abstraction techniques, and evasion mechanisms to facilitate comprehensive testing and analysis.
 
