@@ -49,16 +49,23 @@ XSSinator provides a command-line interface (CLI) to generate XSS payloads and s
 
 ### Payload Generation
 
+XSSinator offers a flexible payload generation mechanism that allows you to customize templates, variations, and encoding styles. By default, XSSinator uses a set of predefined templates, but you can also create your own templates and save them for future use.
+
 Generate XSS payloads with default settings:
 ```
 xssinator generate --count 10
 ```
 
+To learn more about payload generation and customization, refer to the Payload Generation Guide.
+
 ### Vulnerability Scanning
+
+XSSinator includes a powerful vulnerability scanning module that automates the process of detecting and exploiting XSS vulnerabilities in web applications. It performs comprehensive testing using the generated payloads and provides detailed reports with vulnerability analysis.
 
 Scan a web application for XSS vulnerabilities:
 ```
 xssinator scan --url https://example.com
 ```
+To learn more about vulnerability scanning and how to use it effectively, refer to the Vulnerability Scanning Guide.
 
 For a complete list of available commands and options, refer to the CLI documentation.
