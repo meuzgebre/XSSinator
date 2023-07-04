@@ -41,8 +41,8 @@ pip install xssinator
 #### From source
 
 ```
-git clone https://github.com/meuzgebre/xssinator
-cd xxsinator
+git clone https://github.com/meuzgebre/XSSinator
+cd XSSinator
 pip install -r requirements.txt
 ```
 
@@ -56,7 +56,7 @@ XSSinator offers a flexible payload generation mechanism that allows you to cust
 
 Generate XSS payloads with default settings:
 ```
-xssinator generate --count 10
+XSSinator generate -n 10
 ```
 
 To learn more about payload generation and customization, refer to the Payload Generation Guide.
